@@ -1,0 +1,40 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/yy/SiriusTunnel_ws/SiriusTunnelRos/install/rover_msgs/local/lib/python3.10/dist-packages",
+        "/home/yy/SiriusTunnel_ws/SiriusTunnelRos/install/rover_control/lib/python3.10/site-packages",
+        "/home/yy/SiriusTunnel_ws/SiriusTunnelRos/install/ros_ign_interfaces/local/lib/python3.10/dist-packages",
+        "/home/yy/SiriusTunnel_ws/SiriusTunnelRos/install/ros_gz_interfaces/local/lib/python3.10/dist-packages",
+        "/home/yy/SiriusTunnel_ws/SiriusTunnelRos/install/hesai_ros_driver/local/lib/python3.10/dist-packages",
+        "/home/yy/SiriusTunnel_ws/SiriusTunnelRos/install/camera_capture/lib/python3.10/site-packages",
+        "/home/yy/SiriusTunnel_ws/SiriusTunnelRos/install/aeva_msgs/local/lib/python3.10/dist-packages",
+        "/home/yy/ros2_ws/install/rover_msgs/local/lib/python3.10/dist-packages",
+        "/home/yy/ros2_ws/install/rover_control/lib/python3.10/site-packages",
+        "/home/yy/ros2_ws/install/ros_ign_interfaces/local/lib/python3.10/dist-packages",
+        "/home/yy/ros2_ws/install/ros_gz_interfaces/local/lib/python3.10/dist-packages",
+        "/home/yy/ros2_ws/install/hesai_ros_driver/local/lib/python3.10/dist-packages",
+        "/home/yy/ros2_ws/install/camera_capture/lib/python3.10/site-packages",
+        "/home/yy/ros2_ws/install/aeva_msgs/local/lib/python3.10/dist-packages",
+        "/home/yy/test/src/install/aeva_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/yy/SiriusTunnel_ws/SiriusTunnelRos/install/rover_msgs/local/lib/python3.10/dist-packages",
+        "/home/yy/SiriusTunnel_ws/SiriusTunnelRos/install/rover_control/lib/python3.10/site-packages",
+        "/home/yy/SiriusTunnel_ws/SiriusTunnelRos/install/ros_ign_interfaces/local/lib/python3.10/dist-packages",
+        "/home/yy/SiriusTunnel_ws/SiriusTunnelRos/install/ros_gz_interfaces/local/lib/python3.10/dist-packages",
+        "/home/yy/SiriusTunnel_ws/SiriusTunnelRos/install/hesai_ros_driver/local/lib/python3.10/dist-packages",
+        "/home/yy/SiriusTunnel_ws/SiriusTunnelRos/install/camera_capture/lib/python3.10/site-packages",
+        "/home/yy/SiriusTunnel_ws/SiriusTunnelRos/install/aeva_msgs/local/lib/python3.10/dist-packages",
+        "/home/yy/ros2_ws/install/rover_msgs/local/lib/python3.10/dist-packages",
+        "/home/yy/ros2_ws/install/rover_control/lib/python3.10/site-packages",
+        "/home/yy/ros2_ws/install/ros_ign_interfaces/local/lib/python3.10/dist-packages",
+        "/home/yy/ros2_ws/install/ros_gz_interfaces/local/lib/python3.10/dist-packages",
+        "/home/yy/ros2_ws/install/hesai_ros_driver/local/lib/python3.10/dist-packages",
+        "/home/yy/ros2_ws/install/camera_capture/lib/python3.10/site-packages",
+        "/home/yy/ros2_ws/install/aeva_msgs/local/lib/python3.10/dist-packages",
+        "/home/yy/test/src/install/aeva_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

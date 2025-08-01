@@ -1,0 +1,38 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/yy/SiriusTunnel_ws/SiriusTunnelRos/install/ros_ign_interfaces/include/**",
+        "/home/yy/SiriusTunnel_ws/SiriusTunnelRos/install/ros_gz_sim/include/**",
+        "/home/yy/SiriusTunnel_ws/SiriusTunnelRos/install/ros_gz_bridge/include/**",
+        "/home/yy/SiriusTunnel_ws/SiriusTunnelRos/install/ros_gz_interfaces/include/**",
+        "/home/yy/SiriusTunnel_ws/SiriusTunnelRos/install/hesai_ros_driver/include/**",
+        "/home/yy/SiriusTunnel_ws/SiriusTunnelRos/install/aeva_msgs/include/**",
+        "/home/yy/ros2_ws/install/ros_ign_interfaces/include/**",
+        "/home/yy/ros2_ws/install/ros_gz_sim/include/**",
+        "/home/yy/ros2_ws/install/ros_gz_bridge/include/**",
+        "/home/yy/ros2_ws/install/ros_gz_interfaces/include/**",
+        "/home/yy/ros2_ws/install/hesai_ros_driver/include/**",
+        "/home/yy/ros2_ws/install/aeva_msgs/include/**",
+        "/home/yy/test/src/install/aeva_msgs/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/yy/SiriusTunnel_ws/SiriusTunnelRos/src/SiriusTunnelSimulation/ros_gz/ros_gz_bridge/include/**",
+        "/home/yy/SiriusTunnel_ws/SiriusTunnelRos/src/SiriusTunnelSimulation/ros_gz/ros_gz_sim/include/**",
+        "/home/yy/SiriusTunnel_ws/SiriusTunnelRos/src/SiriusTunnelSimulation/rover_sensors/include/**",
+        "/home/yy/SiriusTunnel_ws/SiriusTunnelRos/src/SiriusTunnelSimulation/roverrobotics_driver/include/**",
+        "/home/yy/SiriusTunnel_ws/SiriusTunnelRos/src/tunnel_controller/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
